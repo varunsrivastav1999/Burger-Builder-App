@@ -14,19 +14,4 @@ Email: mzr55657@zwoho.com
 Password: build-my-burger
 ```
 
-## How to setup locally:-
-1.&nbsp; Clone the repository in your system using:
- - #### HTTP
-```
-git clone https://github.com/harsh863/burger-builder.git
-```
 
-- #### SSH
-```
-git clone git@github.com:harsh863/burger-builder.git
-```
-
-2.&nbsp; Navigate to root directory of the project and run `npm install` in your terminal to install all required packages.
-
-3.&nbsp; To start the project run `npm start` in your terminal.
-# Burger-Builder
